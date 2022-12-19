@@ -1,5 +1,5 @@
 ## Hi there, I'm Wellinton! 👋
-I'm a Full Stack Development, i work with web and mobile aplication
+I'm a Full Stack Developer, i work with web and mobile aplication
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellinton-dhionys-895702187/)
